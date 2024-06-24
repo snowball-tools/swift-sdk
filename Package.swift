@@ -19,7 +19,7 @@ let package = Package(
     .package(url: "https://github.com/apple/swift-http-types", from: "1.0.2"),
     .package(url: "https://github.com/thebarndog/swift-dotenv.git", from: "2.0.0"),
     .package(url: "https://github.com/mkrd/Swift-BigInt.git", from: "2.0.0"),
-    .package(url: "https://github.com/anquii/Base58Check.git", from: "1.0.0"),
+    .package(url: "https://github.com/ericlewis/Base58Check.git", branch: "main"),
     .package(url: "https://github.com/Square/Valet", from: "4.0.0"),
     .package(url: "https://github.com/apple/swift-docc-plugin", from: "1.0.0"),
     .package(url: "https://github.com/Boilertalk/Web3.swift.git", from: "0.6.0")
